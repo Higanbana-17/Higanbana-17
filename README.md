@@ -3,6 +3,10 @@
 <h3>Currently working on Project Ember (group project) a 3D ARPG game in unity.</h3>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYB0mDdxOqSPqU/giphy.gif" alt="Digimon GIF" width="300"/>
+  
+  <br><br>
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Higanbana-17&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=20" alt="Top Langs" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Higanbana-17&show_icons=true&theme=radical&border_radius=20" alt="GitHub Stats" />
 </div>
@@ -24,4 +28,6 @@
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Higanbana-17&label=Profile%20views&color=ff6ec7&style=flat" alt="Profile views" />
+  <br>
+  <img src="https://media.giphy.com/media/l41YhPz1rG1k6sRbC/giphy.gif" alt="Agumon GIF" width="100"/>
 </p>
