@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Higanbana</h1>
-<h3>Currently working on a front-end project.</h3>
-<h3>Currently working on Project Ember (group project) a 3D ARPG game in unity.</h3>
+<h3 align="center">Currently working on a front-end project.</h3>
+<h3 align="center">Currently working on Project Ember (group project) a 3D ARPG game in Unity.</h3>
 
 <div align="center">
-  <img src="assets/digital-monsters-henry.gif" alt="Digital Monsters Henry GIF" width="300"/>
-  
+  <img src="assets/digital-monsters-henry.gif" 
+       alt="Digital Monsters Henry GIF" 
+       width="300" 
+       style="border: 3px solid #ff6ec7; border-radius: 15px; box-shadow: 0 0 20px #ff6ec7;"/>
+
   <br><br>
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Higanbana-17&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=20" alt="Top Langs" />
@@ -28,6 +31,11 @@
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Higanbana-17&label=Profile%20views&color=ff6ec7&style=flat" alt="Profile views" />
-  <br>
-  <img src="assets/digimon-adventure-toei.gif" alt="Digimon Adventure GIF" width="100"/>
+
+  <br><br>
+
+  <img src="assets/digimon-adventure-toei.gif" 
+       alt="Digimon Adventure GIF" 
+       width="120" 
+       style="border: 3px solid #ff6ec7; border-radius: 15px; box-shadow: 0 0 15px #ff6ec7;"/>
 </p>
