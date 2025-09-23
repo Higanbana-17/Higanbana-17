@@ -3,7 +3,7 @@
 <h3 align="center">Currently working on Project Ember (group project) a 3D ARPG game in Unity.</h3>
 
 <div align="center">
-  <img src="assets/digital-monsters-henry.gif" 
+  <img src="assets/digital-monsters-henry-GIF" 
        alt="Digital Monsters Henry GIF" 
        width="300" 
        style="border: 3px solid #ff6ec7; border-radius: 15px; box-shadow: 0 0 20px #ff6ec7;"/>
@@ -34,7 +34,7 @@
 
   <br><br>
 
-  <img src="assets/digimon-adventure-toei.gif" 
+  <img src="assets/Digimon-Adventure-GIF-by-TOEI-Animation-UK"
        alt="Digimon Adventure GIF" 
        width="120" 
        style="border: 3px solid #ff6ec7; border-radius: 15px; box-shadow: 0 0 15px #ff6ec7;"/>
