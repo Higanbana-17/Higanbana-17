@@ -31,11 +31,13 @@
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Higanbana-17&label=Profile%20views&color=ff6ec7&style=flat" alt="Profile views" style="box-shadow: 0 0 10px #ff6ec7;"/>
+</p>
 
-  <br><br>
+---
 
+<div align="center">
   <img src="assets/Digimon%20Adventure%20GIF%20by%20TOEI%20Animation%20UK.gif"
        alt="Digimon Adventure GIF" 
-       width="120"
+       width="300"
        style="border: 4px solid #ff6ec7; border-radius: 20px; box-shadow: 0 0 30px #ff6ec7, 0 0 60px #ff6ec7;"/>
-</p>
+</div>
