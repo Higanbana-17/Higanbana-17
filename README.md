@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Higanbana</h1>
-<h3 align="center">Currently working on a front-end project.</h3>
-<h3 align="center">Currently working on Project Ember (group project) a 3D ARPG game in Unity.</h3>
+<h3>Currently working on a front-end project.</h3>
+<h3>Currently working on Project Ember (group project) a 3D ARPG game in Unity.</h3>
 
 <div align="center">
   <img src="assets/digital%20monsters%20henry%20GIF.gif"
@@ -29,15 +29,15 @@
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Higanbana-17&label=Profile%20views&color=ff6ec7&style=flat" alt="Profile views" style="box-shadow: 0 0 10px #ff6ec7;"/>
-</p>
-
----
-
 <div align="center">
   <img src="assets/Digimon%20Adventure%20GIF%20by%20TOEI%20Animation%20UK.gif"
        alt="Digimon Adventure GIF" 
        width="300"
        style="border: 4px solid #ff6ec7; border-radius: 20px; box-shadow: 0 0 30px #ff6ec7, 0 0 60px #ff6ec7;"/>
 </div>
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Higanbana-17&label=Profile%20views&color=ff6ec7&style=flat" alt="Profile views" style="box-shadow: 0 0 10px #ff6ec7;"/>
+</p>
