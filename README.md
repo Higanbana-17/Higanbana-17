@@ -3,13 +3,15 @@
 <h3 align="center">Currently working on Project Ember (group project) a 3D ARPG game in Unity.</h3>
 
 <div align="center">
-  <img src="assets/digital-monsters-henry-GIF.gif" 
+  <!-- Digital Monsters Henry GIF com borda neon e sombra -->
+  <img src="assets/digital%20monsters%20henry%20GIF.gif"
        alt="Digital Monsters Henry GIF" 
        width="300" 
-       style="border: 3px solid #ff6ec7; border-radius: 15px; box-shadow: 0 0 20px #ff6ec7;"/>
+       style="border: 4px solid #ff6ec7; border-radius: 20px; box-shadow: 0 0 25px #ff6ec7, 0 0 50px #ff6ec7;"/>
 
   <br><br>
 
+  <!-- GitHub Stats -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Higanbana-17&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=20" alt="Top Langs" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Higanbana-17&show_icons=true&theme=radical&border_radius=20" alt="GitHub Stats" />
 </div>
@@ -30,12 +32,14 @@
 ---
 
 <p align="right">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Higanbana-17&label=Profile%20views&color=ff6ec7&style=flat" alt="Profile views" />
 
   <br><br>
 
-  <img src="assets/Digimon-Adventure-GIF-by-TOEI-Animation-UK.gif"
+  <!-- Digimon Adventure GIF com borda neon e sombra -->
+  <img src="assets/Digimon%20Adventure%20GIF%20by%20TOEI%20Animation%20UK.gif"
        alt="Digimon Adventure GIF" 
        width="120" 
-       style="border: 3px solid #ff6ec7; border-radius: 15px; box-shadow: 0 0 15px #ff6ec7;"/>
+       style="border: 4px solid #ff6ec7; border-radius: 20px; box-shadow: 0 0 20px #ff6ec7, 0 0 40px #ff6ec7;"/>
 </p>
