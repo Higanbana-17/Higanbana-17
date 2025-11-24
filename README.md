@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Higanbana</h1>
 <h3>Currently working on a front-end project.</h3>
-<h3>Currently working on Project Ember (group project) a 3D ARPG game in Unity.</h3>
+<h3>Taking a Godot course and working on my first game.</h3>
 
 <div align="center">
   <img src="assets/digital%20monsters%20henry%20GIF.gif"
